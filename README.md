@@ -47,6 +47,13 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 # Autores
 
 [Exemplo](https://github.com/testing-library/react-testing-library#contributors)
+Gabriel Garcia Marques / 820275269
+Taynara Ferreira da Silva / 322124381
+Davi Bragança / 321219454
+Nathalia Irma Silva Santos / 321119244
+Wilker H P C Freitas / 321221135
+Willians silva dos santos / 1362012007
+
 
 # Licença
 
