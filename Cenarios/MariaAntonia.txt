@@ -1,0 +1,13 @@
+Persona: Maria
+Maria Antônia é uma senhora de 59 anos, viúva, aposentada que gosta de viajar , passear , 
+conhecer lugares diferentes, Atualmente ela utiliza o cartão Autopass para se locomover e 
+sempre realiza a recarga desse cartão indo até uma ATM.
+Sempre que vai até a ATM para realização de recarga encontra dificuldades pois está 
+sempre cheio, a plataforma está com lentidão na realização do processo necessário para 
+efetuar a recarga, também tem dificuldades com as inúmeras etapas que ela tem que 
+realizar na plataforma.
+Sendo assim devido à demora e lentidão do sistema resolveu instalar o app em seu celular 
+e pedir ajuda a uma pessoa que fica responsável por auxiliar no atendimento a ATM para 
+orientá-la em relação ao manuseio do app e mesmo tendo um pouco de dificuldade com 
+tecnologia se surpreendeu com a eficácia do app e percebeu que pelo app ela conseguiria 
+realizar a recarga, comprar por QR Code de forma rápida e prática
