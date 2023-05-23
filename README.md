@@ -29,11 +29,8 @@ Este é um projeto de redesign de interface gráfica de software de uma máquina
 
 # Tecnologias Usadas
 
-- [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Mockflow](https://www.mockflow.com/)
+- [Figma](https://www.figma.com/)
 
 # Contribuição
 
