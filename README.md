@@ -1,15 +1,11 @@
-# Título do Projeto
+# Projeto AutoPass
 
 
-![Capa do Projeto](https://picsum.photos/850/280)
+![Capa do Projeto](https://www.autopass.com.br/wp-content/uploads/2021/05/logo_provisorio.svg)
 
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
-
-<h4 align="center"> 
-	🚧  Em desenvolvimento . . .
-</h4>
+Este é um projeto de redesign de interface gráfica de software de uma máquina de autoatendimento (ATM), que será desenvolvido com o objetivo de melhorar a usabilidade e a experiência do usuário.
 
 # Índice/Sumário
 
@@ -25,12 +21,11 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 
 # Requisitos Funcionais 
 
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
+	● RF1 - Vender Bilhete Digital QR Code via Cartão de Débito: o sistema deve ser capaz de realizar a venda do Bilhete Digital QR Code com pagamento através do cartão de débito.
+	● RF2 - Recarregar Cartão TOP em Dinheiro: o sistema deve ser capaz de realizar a recarga do Cartão TOP com pagamento em dinheiro.
+	● RF3 - Recarregar Cartão TOP via Cartão de Débito: o sistema deve ser capaz de realizar a recarga do Cartão TOP com pagamento através do cartão de débito.
+	● RF4 - Recarregar Bilhete Único em Dinheiro: o sistema deve ser capaz de realizar a recarga do Bilhete Único com pagamento em dinheiro.
+	● RF5 - Recarregar Bilhete Único via Cartão de Débito: o sistema deve ser capaz de realizar a recarga do Bilhete Único com pagamento através do cartão de débito.
 
 # Tecnologias Usadas
 
