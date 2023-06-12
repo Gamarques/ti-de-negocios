@@ -31,6 +31,9 @@ Este é um projeto de redesign de interface gráfica de software de uma máquina
 
 - [Mockflow](https://www.mockflow.com/)
 - [Figma](https://www.figma.com/)
+- [AniMaker](https://www.animaker.co)
+- Vue.JS
+- Quasar.JS
 
 # Contribuição
 
