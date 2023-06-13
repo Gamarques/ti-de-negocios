@@ -1,0 +1,18 @@
+Relatorio das Heuristicas de Nielsen
+Visibilidade do Status do Sistema - Nosso sistema sempre mantem o usuário informado do que está acontecendo.
+Correspondência entre o Sistema e o Mundo Real - Possuem correspondência.
+Controle de usuário e liberdade- Todas nossas Paginas possuem botão voltar/cancelar/avançar. 
+Consistência e padrões - Todas nossas paginas seguem o mesmo padrão e não há duvida com relação a diferentes ações
+Prevenção de erros - Nosso design é cuidadoso para que erros não ocorram. Porém, podemos nos atentar em colocar um botão de Reimprimir o QR code caso o mesmo não ocorra
+Reconhecimento em Vez de Recordação - Nosso sistema é bem simples com instruções bem visíveis.
+Flexibilidade e Eficiência de Uso - Com poucos toques simples o usuário consegue chegar ao objetivo dele.
+Design Estético e Minimalista - Nosso design é minimalista e com nenhuma poluição visual
+Ajude os Usuários a Reconhecer, Diagnosticar e Recuperar de Erros - Sempre informamos na tela caso um erro ocorrá.
+Ajuda e Documentação - Nosso sistema possui o telefone de contato da empresa e o QR CODE para escanear e baixar o aplicativo onde o usuário encontrará suporte.
+
+Problema: QR CODE não foi imprimido
+Heuristica violada: 5
+Gravidade do erro: Ocorre numa rara frequência. 
+	Impacto: será facil de o usuário resolver, precisa apenas de um botão de reimprimir. 
+		Persistência: É um problema único.
+Resultado final da gravidade do problema: nota 4 "Deve ser consertado antes do lançamento do produto"
